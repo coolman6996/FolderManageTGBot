@@ -19,14 +19,14 @@ go run main.go
 #### 3. Open Telegram and search for this username: @MyFolderManage_bot
 #### 4. Use, the following commands:
 ```
-/start -
+/start - start bot
 ```
 ```
-/lsdir
+/lsdir - list files in directory
 ```
 ```
-/createfile
+/createfile - create file 
 ```
 ```
-/rmfile
+/rmfile - remove file
 ```
