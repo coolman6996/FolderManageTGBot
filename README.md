@@ -5,8 +5,6 @@
 #### 1. Clone repo
 ```
 git clone https://github.com/coolman6996/FolderManageTGBot.git
-```
-```
 cd FolderManageTGBot
 ```
 #### 2. Running telegram bot
